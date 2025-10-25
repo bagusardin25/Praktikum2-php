@@ -99,5 +99,4 @@ if (!isset($_POST["submit"])) {
     <h4>Kembali ke Form Registrasi</h4>
   </a>
 </body>
-
 </html>
